@@ -1,0 +1,11 @@
+temp1:123	-395
+temp2:123	100
+temp3:43	100
+temp4:123	25
+temp5:123	100
+temp6:123	55
+temp7:12345	100
+temp8:temp123	100
+a:a	100
+aa:ss	100
+dsdds:123	75
